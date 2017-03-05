@@ -1,7 +1,7 @@
 # TikZ Examples
 
-[TOC]
 
+## flowchart, node, node label, node pin, fit, background
 ``` latex
 
 \documentclass{standalone}
@@ -53,5 +53,5 @@
 \end{document}
 
 ```
-![hust](results/flowchart.node.fit.background.png)
+![](results/flowchart.node.fit.background.png)
 

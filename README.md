@@ -53,5 +53,5 @@
 \end{document}
 
 ```
-![hust](results/flowchart.node.fit.background.pdf)
+![hust](results/flowchart.node.fit.background.png)
 

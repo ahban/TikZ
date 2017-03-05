@@ -5,3 +5,7 @@
 
 ![](src/flowchart.png)
 
+## add an image into a tikzpicture
+
+![](src/image.png)
+

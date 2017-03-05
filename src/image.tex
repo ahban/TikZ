@@ -1,0 +1,12 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usepackage{graphicx}
+\begin{document}
+
+\begin{tikzpicture}
+  % here anchor is important to make the origin at (0,0)
+  \node [anchor=south west, inner sep=0] at (0,0) {\includegraphics[width=250pt]{lena.png}};
+  \node [anchor=south west, inner sep=0,minimum width=52pt,minimum height=20pt,ultra thick,draw=green!70,dotted] at (120pt, 110pt) {};
+\end{tikzpicture}
+
+\end{document}

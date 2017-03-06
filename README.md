@@ -3,9 +3,10 @@
 
 ## flowchart, node, node label, node pin, fit, background
 
-![](src/flowchart.png)
+![flowchart](src/flowchart.png)
 
 ## add an image into a tikzpicture
 
-![](src/image.png)
+![image](src/image.png)
+
 
